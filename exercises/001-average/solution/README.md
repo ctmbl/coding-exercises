@@ -5,7 +5,7 @@ The sum is easily computed with a `for` loop, and `len` gives you the number of 
 
 *Solution:*
 ```py
-def mean(L):
+def average(L):
     S = 0
     for i in L:
         S += i
