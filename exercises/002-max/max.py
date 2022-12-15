@@ -1,4 +1,4 @@
-from solution.datas import L, answer 
+from solution.data import L, answer 
 # define a function that takes L as argument and return the bigger element
 # !! it MUST be called `max_list` !!
 

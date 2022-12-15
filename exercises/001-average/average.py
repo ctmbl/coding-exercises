@@ -1,4 +1,4 @@
-from solution.datas import L, answer 
+from solution.data import L, answer 
 # define a function that takes L as argument and return its mean
 # !! it MUST be called `average` !!
 
